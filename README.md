@@ -1,8 +1,8 @@
-#Spotfy React Player
+# Spotfy React Player
 
-*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-*To run you must first run the auth-server/authorization_code/app.js to start up the server, follwed by runing the react script.
+* To run you must first run the auth-server/authorization_code/app.js to start up the server, follwed by runing the react script.
 (Still a work in progress)
 
 ## Available Scripts
